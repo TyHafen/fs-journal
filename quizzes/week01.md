@@ -14,7 +14,7 @@
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-``` the HTML  tag is a root tag indicating that the web page is in HTML format
+``` the HTML tag is a root tag indicating that the web page is in HTML format
 ```
 
 **4.** What does `HTML` stand for?
@@ -53,13 +53,15 @@
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
-```Most of the code belongs in the body tag.
+```
+Most of the code belongs in the body tag.
 
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
-```the UL tag groups your list but in no specific order while the OL tag orders the list. within the OL or UL tag every item needs to be tagged with a LI tag which stands for List Item. Whatever order you put the items in using the LI combined with the OL tag should be how you intend the list to read on the document page
+```
+the UL tag groups your list but in no specific order while the OL tag orders the list. within the OL or UL tag every item needs to be tagged with a LI tag which stands for List Item. Whatever order you put the items in using the LI combined with the OL tag should be how you intend the list to read on the document page
 
 
 ```
@@ -67,6 +69,7 @@
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
+first it is important to understand that if the element isnt a flex item then this will not work. Just like how a column isnt effected by flex unless you add the class d-flex. flex-grow will grow an item relative to the size of the other items, flex-shink will do the opposite. It will shrink an item based on the size of the other items. flex-basis is just what it sounds like. its the original size of the item.
 
 ```
 
