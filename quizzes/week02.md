@@ -82,5 +82,5 @@ Document Object Model.  HTML is the first file to render in the DOM
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+reference values refer to objects while primitives do not. example of a primitive value is let string = 'Hello, world. you cannot drill into this value like you could with an object.
 ```
