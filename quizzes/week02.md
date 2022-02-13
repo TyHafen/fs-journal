@@ -72,6 +72,15 @@ Document Object Model.  HTML is the first file to render in the DOM
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
+1) boolean
+2) Null
+3) undefined
+4) number
+5) bigInt
+6) string
+7) symbol
+8) objects
+9) arrays
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
