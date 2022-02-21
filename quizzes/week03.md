@@ -16,10 +16,11 @@ let staff = {
   job: "Code Monkey"
   }
 let property = 'name'
+
 ```
 <!-- enter you answer in the space below -->
 ```
- 
+ staff[property]
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
