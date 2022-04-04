@@ -22,9 +22,9 @@ With this pattern where data is represented as an observer that wait for an even
 ```
 **4.** What is the `Strategy` design pattern?
 <!-- enter you answer in the space below -->
-In this design pattern there can be more than one type of algorithm that can be run. It is a way to have more than one solution to a problem. Basically you can have a strategy use a different algorithm based on what it needs to accomplish.
-```
 
+```
+In this design pattern there can be more than one type of algorithm that can be run. It is a way to have more than one solution to a problem. Basically you can have a strategy use a different algorithm based on what it needs to accomplish.
 ```
 **5.** What is the `Factory` design pattern?
 <!-- enter you answer in the space below -->
@@ -42,7 +42,8 @@ There are three stages to this development style. The creation of code, the test
 ```
 **7.** In Scrum/Agile what is the DoD?
 <!-- enter you answer in the space below -->
-```It stands for Definition of Done. Signified when all of the main tasks or points mentioned are complete.
+```
+It stands for Definition of Done. Signified when all of the main tasks or points mentioned are complete.
 
 
 ```
